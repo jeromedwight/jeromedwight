@@ -1,118 +1,134 @@
+# Hi, I'm Jerome Dwight 👋
+
+### 4th Year BS Information Technology Student
+
+I'm a 4th-year BSIT student at Saint Mary's University with an interest in
+software development, web development, and database systems.
+
+Most of my experience comes from academic and personal projects where I've
+worked with desktop applications, websites, and database-driven systems.
+I'm still learning, but I enjoy figuring things out by building projects
+and improving them along the way.
+
+---
+
+## About Me
+
+- 🎓 4th Year BS Information Technology student
+- 💻 Interested in software and web development
+- 🗄️ Comfortable working with relational databases and SQL
+- 🖥️ Experience building Windows Forms applications using VB.NET
+- 🌐 Familiar with HTML, CSS, and JavaScript
+- 🔧 Currently improving my programming and development skills
+- 📍 Based in the Philippines
+
+---
+
+## Tech Stack
+
+### Languages & Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Projects
+
+### Restaurant Reservation System
+
+A desktop-based reservation system developed as an academic project.
+The system focuses on managing customer information, reservations,
+table availability, user roles, and reports.
+
+**Built with:** VB.NET, Windows Forms, MySQL, Visual Studio
+
+---
+
+### Café Cozy
+
+A front-end website project created to practice building and styling
+web pages using HTML and CSS, with JavaScript for basic interactions.
+
+**Built with:** HTML, CSS, JavaScript
+
+---
+
+### Database Projects
+
+Academic database projects involving relational database design,
+SQL queries, CRUD operations, table relationships, and data management.
+
+**Built with:** MySQL, SQL, MySQL Workbench
+
+---
+
+## What I'm Currently Working On
+
+I'm currently focused on improving the fundamentals that I use when
+building applications:
+
+- Writing cleaner and more organized code
+- Improving SQL and database design
+- Building better user interfaces
+- Understanding software development practices
+- Learning more about modern web development
+- Using Git and GitHub more effectively
+
+---
+
+## Education
+
+**Bachelor of Science in Information Technology**  
+Saint Mary's University  
+Expected Graduation: 2027
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-# 👋 Hi, I'm Jerome Dwight
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=jeromedwight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-### 💻 4th Year BS Information Technology Student
-
-**Aspiring Software Developer • Web Developer • Database Enthusiast**
-
-<p>
-  <a href="https://github.com/jeromedwight">
-    <img src="https://img.shields.io/github/followers/jeromedwight?label=Followers&style=flat-square&logo=github">
-  </a>
-  <a href="https://github.com/jeromedwight">
-    <img src="https://komarev.com/ghpvc/?username=jeromedwight&label=Profile%20Views&color=blue&style=flat-square">
-  </a>
-</p>
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromedwight&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Let's Connect
 
-I'm a **4th-year Bachelor of Science in Information Technology student** at **Saint Mary's University**, passionate about building practical software and learning new technologies.
+I'm always open to learning from other developers, working on projects,
+and connecting with people in the IT community.
 
-I enjoy developing applications that combine **programming, databases, and user-friendly interfaces**. Most of my experience comes from academic and personal projects, where I've worked with desktop applications, websites, and database-driven systems.
+📧 **Email:** your-email@example.com
 
-I'm currently preparing myself for a career in the IT industry by continuously improving my development skills and building projects that demonstrate what I can do.
+💼 **LinkedIn:** Add your LinkedIn profile here
 
-- 🎓 4th Year BS Information Technology Student
-- 💻 Interested in Software & Web Development
-- 🗄️ Interested in Database Design and Management
-- 🚀 Currently building and improving personal & academic projects
-- 📚 Continuously learning new technologies
-- 🎯 Goal: Become a professional software developer
+🌐 **Portfolio:** Coming soon
 
 ---
 
-## 🛠️ Technologies & Tools
+<div align="center">
 
-### 💻 Languages
+**Thanks for stopping by!**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vb" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ Restaurant Reservation System
-
-A database-driven restaurant reservation system designed to manage **customer profiles, reservations, table availability, user roles, and reports**.
-
-**Tech Stack**
-
-`VB.NET` `Windows Forms` `MySQL` `Visual Studio`
-
-**Key Features**
-
-- 👤 Customer profile management
-- 📅 Reservation management
-- 🪑 Table availability tracking
-- 📊 Reservation reports
-- 🔐 User role management
-- 🗄️ MySQL database integration
-
----
-
-### ☕ Café Cozy
-
-A café website created to practice **front-end web development, responsive layouts, styling, and interactive elements**.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-**Focus**
-
-- 🎨 User interface design
-- 📱 Responsive layout
-- 🌐 Web page development
-- ⚡ JavaScript interactions
-
----
-
-### 🗄️ Database Management Projects
-
-A collection of academic projects focused on **relational databases, SQL, CRUD operations, data relationships, and database management**.
-
-**Tech Stack**
-
-`MySQL` `SQL` `MySQL Workbench`
-
----
-
-## 📚 Currently Learning
-
-```text
-Web Development          ███████████████░░░  Learning
-Database Management      ███████████████░░░  Learning
-Software Development     ██████████████░░░░  Learning
-JavaScript               ████████████░░░░░░  Learning
-SQL                      ████████████████░░  Improving
-Networking                █████████████░░░░░  Learning
-System Analysis           █████████████░░░░░  Learning
+</div>
