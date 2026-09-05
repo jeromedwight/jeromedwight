@@ -1,128 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Jerome%20Dwight%20Bautista&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSIT%20Student%20and%20Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Jerome%20Dwight%20Bautista&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20and%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/jeromedwight">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=4th+Year+BSIT+Student+at+Saint+Mary's+University;Web+and+Software+Developer;React+%2B+Node.js+%2B+MySQL+%2F+MongoDB;Building+capstone+KwartoKeeper;Always+learning+by+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+and+Software+Developer;React+%2B+Node.js+%2B+MySQL+%2F+MongoDB;Building+capstone%3A+KwartoKeeper" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jeromedwight&label=Profile%20Views&color=38BDF8&style=flat" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-38BDF8?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=jeromedwight&label=Profile%20Views&color=1e293b&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## Profile
 
-- 🎓 4th-year **BS Information Technology** student at **Saint Mary's University**, Bayombong, Nueva Vizcaya, PH — expected graduation **2027**
-- 💻 Focused on **web development**, **software development**, and **database systems**
-- 🧩 Comfortable across the stack: front-end UI, back-end APIs, and relational/NoSQL databases
-- 🏗️ Currently building my capstone project, **KwartoKeeper**, a dormitory management platform
-- 🌱 Always improving code quality, database design, and dev workflow (Git/GitHub)
-- 📍 Based in the Philippines
+| | |
+|---|---|
+| 🎓 **Education** | BS Information Technology, Saint Mary's University *(Expected 2027)* |
+| 📍 **Location** | Philippines |
+| 💼 **Focus** | Web Development · Software Development · Database Systems |
+| 🏗️ **Currently Building** | KwartoKeeper — dormitory management platform *(Capstone)* |
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
-</div>
+Fourth-year IT student with hands-on experience across the stack — from relational and NoSQL database design to full front-end/back-end implementation. Comfortable moving between desktop, web, and mobile environments, with a growing focus on clean architecture and production-ready UI.
 
-## 🧰 Tech Stack
+<br/>
 
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vbnet&theme=dark" />
-
-**Frontend / Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark" />
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma&theme=dark" />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
-</div>
-
-## 🚀 Featured Projects
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏠 KwartoKeeper *(Capstone)*
-Mobile-responsive dormitory/apartment occupancy monitoring and tenant information management system, built with a group at SMU for three real dormitory operators in Bayombong.
-
-**Stack:** React · Vite · Node.js · Firebase · QRPh/InstaPay payments
-**Highlights:** ISO/IEC 25010:2015 evaluation, RAD methodology, real tenant requirements docs
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 AquaTrack
-Solo-built web order & inventory management system for a water refilling station — full lifecycle from schema design to deployment.
-
-**Stack:** React (Vite) · Node.js/Express · MySQL
-**Deployed:** Railway (backend) · Vercel (frontend)
-
-</td>
+<td valign="top" width="16%"><strong>Languages</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=html,css,js,vbnet&theme=dark" /></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ☕ Felisa's Grind and Brew
-Dark-themed coffee shop web application, with focus on UI components, admin dashboard styling, and a documented style guide.
-
-**Stack:** React · Express
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 PayrollPH
-Payroll management system with 2nd-cutoff deduction logic, redesigned with a dark navy fintech-inspired UI.
-
-**Stack:** PHP · MySQL · XAMPP
-
-</td>
+<td valign="top"><strong>Frontend</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark" /></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🍽️ Restaurant Reservation System
-Desktop reservation system managing customer info, table availability, reservations, user roles, and reports.
-
-**Stack:** VB.NET · Windows Forms · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Café Cozy
-Front-end practice project focused on page building, styling, and basic JS interactivity.
-
-**Stack:** HTML · CSS · JavaScript
-
-</td>
+<td valign="top"><strong>Backend</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><strong>Databases</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><strong>Mobile</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><strong>Tools</strong></td>
+<td valign="top"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma&theme=dark" /></td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
-</div>
+<br/>
 
-## 📊 GitHub Stats
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **KwartoKeeper** *(Capstone)* | Mobile-responsive dormitory/apartment occupancy monitoring and tenant management platform, built for three real dormitory operators in Bayombong. | React · Vite · Node.js · Firebase |
+| **AquaTrack** | Solo-built order & inventory management system for a water refilling station — full lifecycle from schema design to deployment. | React (Vite) · Node.js/Express · MySQL |
+| **Felisa's Grind and Brew** | Dark-themed coffee shop web application with a documented style guide and admin dashboard UI work. | React · Express |
+| **PayrollPH** | Payroll system with 2nd-cutoff deduction logic and a fintech-inspired UI redesign. | PHP · MySQL |
+| **Restaurant Reservation System** | Desktop reservation system managing customers, table availability, and staff roles. | VB.NET · Windows Forms · MySQL |
+| **Café Cozy** | Front-end practice project focused on layout, styling, and interactivity. | HTML · CSS · JavaScript |
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
@@ -133,23 +83,23 @@ Front-end practice project focused on page building, styling, and basic JS inter
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedwight&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeromedwight&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
 </div>
 
-## 🐍 Contribution Snake
+<br/>
+
+<details>
+<summary><strong>Contribution activity (animated)</strong></summary>
+
+<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/jeromedwight/jeromedwight/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-<details>
-<summary>⚙️ Paano i-activate 'to (one-time setup, 5 minutes lang)</summary>
+**One-time setup (5 minutes):**
 
-1. Sa GitHub, gumawa ng bagong **special repo** na eksaktong pareho ng username mo: `jeromedwight/jeromedwight` (kung wala ka pa nito) — Public, walang README kailangan.
-2. Sa loob ng repo na 'yan, gumawa ng file na `.github/workflows/snake.yml` na may lamang:
+1. Create a repo named exactly `jeromedwight/jeromedwight` (public, no README required).
+2. Add `.github/workflows/snake.yml` with:
 
 ```yaml
 name: generate animated snake
@@ -184,35 +134,25 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. I-commit at i-push. Pumunta sa **Actions** tab ng repo, i-run manually ang workflow ("Run workflow") para sa unang pagkakataon.
-4. Maghintay ng ~1-2 minuto — lalabas na ang animated snake sa profile README mo automatically (dahil naka-link na sa `output` branch).
+3. Commit and push, then run the workflow manually once from the **Actions** tab.
+4. The animated snake will appear automatically within a couple of minutes.
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
-</div>
+<br/>
 
-## 🎮 Beyond the Code
+## Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=Playing+NBA+2K22+on+my+MSI+Thin+15;Into+music+-+Daniel+Caesar+on+repeat;Debugging+by+day%2C+gaming+by+night" alt="Beyond the code typing SVG" />
+<a href="mailto:09368072602tm@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e293b?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=vercel&logoColor=38BDF8" />
 
-</div>
+<sub>LinkedIn and Portfolio links coming soon</sub>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
-</div>
+<br/><br/>
 
-## 📫 Let's Connect
-
-<div align="center">
-
-📧 **Email:** 09368072602tm@gmail.com
-💼 **LinkedIn:** Coming soon
-🌐 **Portfolio:** Coming soon
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
