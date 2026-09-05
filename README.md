@@ -11,6 +11,23 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-38BDF8?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=jeromedwight&label=Profile%20Views&color=1e293b&style=flat-square" />
 
+<br/><br/>
+
+<a href="#profile">Profile</a> ·
+<a href="#tech-stack">Tech Stack</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#github-stats">GitHub Stats</a> ·
+<a href="#connect">Connect</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Firebase-1e293b?style=flat-square&logo=firebase&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=38BDF8" />
+
 </div>
 
 <br/>
@@ -26,7 +43,7 @@
 
 Fourth-year IT student with hands-on experience across the stack — from relational and NoSQL database design to full front-end/back-end implementation. Comfortable moving between desktop, web, and mobile environments, with a growing focus on clean architecture and production-ready UI.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&width=100%" width="100%"/>
 
 ## Tech Stack
 
@@ -57,7 +74,7 @@ Fourth-year IT student with hands-on experience across the stack — from relati
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&width=100%" width="100%"/>
 
 ## Projects
 
@@ -70,7 +87,7 @@ Fourth-year IT student with hands-on experience across the stack — from relati
 | **Restaurant Reservation System** | Desktop reservation system managing customers, table availability, and staff roles. | VB.NET · Windows Forms · MySQL |
 | **Café Cozy** | Front-end practice project focused on layout, styling, and interactivity. | HTML · CSS · JavaScript |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&width=100%" width="100%"/>
 
 ## GitHub Stats
 
@@ -139,7 +156,7 @@ jobs:
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:1e293b&height=2&width=100%" width="100%"/>
 
 ## Connect
 
