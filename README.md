@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=4th+Year+BSIT+Student+at+Saint+Mary's+University;Web+and+Software+Developer;React+%2B+Node.js+%2B+MySQL+%2F+MongoDB;Building+capstone+KwartoKeeper;Always+learning+by+building" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jeromedwight&label=Profile%20Views&color=38BDF8&style=flat" />
+
 </div>
 
 ---
@@ -20,7 +24,7 @@
 - 📍 Based in the Philippines
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
 </div>
 
 ## 🧰 Tech Stack
@@ -50,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma&theme=dark" />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -115,7 +119,7 @@ Front-end practice project focused on page building, styling, and basic JS inter
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -129,6 +133,10 @@ Front-end practice project focused on page building, styling, and basic JS inter
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromedwight&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeromedwight&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ## 🐍 Contribution Snake
@@ -137,10 +145,64 @@ Front-end practice project focused on page building, styling, and basic JS inter
 <img src="https://raw.githubusercontent.com/jeromedwight/jeromedwight/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> 💡 This animated snake needs a one-time GitHub Actions setup (see notes below) — it'll animate itself across your real contribution graph once enabled.
+<details>
+<summary>⚙️ Paano i-activate 'to (one-time setup, 5 minutes lang)</summary>
+
+1. Sa GitHub, gumawa ng bagong **special repo** na eksaktong pareho ng username mo: `jeromedwight/jeromedwight` (kung wala ka pa nito) — Public, walang README kailangan.
+2. Sa loob ng repo na 'yan, gumawa ng file na `.github/workflows/snake.yml` na may lamang:
+
+```yaml
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: jeromedwight
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. I-commit at i-push. Pumunta sa **Actions** tab ng repo, i-run manually ang workflow ("Run workflow") para sa unang pagkakataon.
+4. Maghintay ng ~1-2 minuto — lalabas na ang animated snake sa profile README mo automatically (dahil naka-link na sa `output` branch).
+
+</details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
+</div>
+
+## 🎮 Beyond the Code
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=Playing+NBA+2K22+on+my+MSI+Thin+15;Into+music+-+Daniel+Caesar+on+repeat;Debugging+by+day%2C+gaming+by+night" alt="Beyond the code typing SVG" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1a1a2e&height=3&width=100%&animation=twinkling" width="100%"/>
 </div>
 
 ## 📫 Let's Connect
@@ -151,6 +213,6 @@ Front-end practice project focused on page building, styling, and basic JS inter
 💼 **LinkedIn:** Coming soon
 🌐 **Portfolio:** Coming soon
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
