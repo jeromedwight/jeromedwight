@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Jerome%20Dwight%20Bautista&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSIT%20Student%20and%20Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/jeromedwight">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=4th+Year+BSIT+Student+at+Saint+Mary's+University;Web+and+Software+Developer;React+%2B+Node.js+%2B+MySQL+%2F+MongoDB;Building+capstone+KwartoKeeper;Always+learning+by+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=4th+Year+BSIT+Student+at+Saint+Mary's+University;Web+and+Software+Developer;React+%2B+Node.js+%2B+MySQL+%2F+MongoDB;Building+capstone+KwartoKeeper;Always+learning+by+building" alt="Typing SVG" />
 </a>
 
 </div>
